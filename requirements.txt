@@ -1,0 +1,14 @@
+sys
+pandas
+pyreadstat
+numpy
+plotly-graph_objects
+logging
+plotly-express
+reload
+dcc
+Dash
+html
+Image
+plotly-io
+base64
