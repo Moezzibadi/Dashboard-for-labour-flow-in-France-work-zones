@@ -1,6 +1,6 @@
 pandas
 pyreadstat
-numpy
+numpy-1.17.3 
 plotly-graph_objects
 logging
 plotly-5.0.0
