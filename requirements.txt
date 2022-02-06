@@ -3,7 +3,7 @@ pyreadstat
 numpy
 plotly-graph_objects
 logging
-plotly-express
+plotly-5.0.0
 reload
 dcc
 Dash
