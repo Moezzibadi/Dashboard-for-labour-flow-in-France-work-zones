@@ -1,7 +1,5 @@
 pandas
 pyreadstat
-plotly-graph_objects
-logging
 plotly-5.0.0
 reload
 dcc
