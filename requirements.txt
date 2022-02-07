@@ -1,9 +1,0 @@
-pandas
-pyreadstat
-reload
-dcc
-Dash
-html
-Image
-plotly-io
-base64
