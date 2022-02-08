@@ -5,8 +5,7 @@ The app is too large to be run by Heroku (Slug size 1.1G (max is 500M)
 
 Commands for Heroku by Voila:
 
-Launch local : voila MyApp.ipynb
-
+Launch local : voila MyApp.ipynb\\
 heroku login
 
 heroku create
