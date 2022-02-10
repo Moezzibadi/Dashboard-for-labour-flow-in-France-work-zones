@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --theme=dark --template=material --enable_nbextensions=True notebooks/Labour_Dashboard-Networkx.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True notebooks/Labour_Dashboard-Networkx.ipynb
